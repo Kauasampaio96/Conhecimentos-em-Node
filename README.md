@@ -3,10 +3,6 @@
 </p>
 
 
-<p align="center">
-  <img src="to_readme.gif">
-</p>
-
 <h2>👨‍💻 Sobre o projeto</h2>
 
 <p>
